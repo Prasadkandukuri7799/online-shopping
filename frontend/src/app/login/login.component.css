@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+#bg {
+  background-image: url('data:image/jpeg;base64,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');
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  filter: blur(5px);
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #4A4A4A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  width: 350px;
+  position: relative;
+}
+form .form-group::before {
+  font-size: 20px;
+  position: absolute;
+  left: 15px;
+  top: 17px;
+  color: #888888;
+  content: " ";
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+form .form-group:nth-child(1)::before {
+  background-image: url(img/user-icon.png);
+  width: 20px;
+  height: 20px;
+  top: 15px;
+}
+form .form-group:nth-child(2)::before {
+  background-image: url(img/lock-icon.png);
+  width: 16px;
+  height: 16px;
+}
+form .form-group  {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 1rem;
+  position: relative;
+}
+form input {
+  font-family: inherit;
+  width: 100%;
+  outline: none;
+  background-color: #fff;
+  border-radius: 4px;
+  border: none;
+  display: block;
+  padding: 0.9rem 0.7rem;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+  color: #4A4A4A;
+  text-indent: 40px;
+}
+form .btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0.9rem 2.5rem;
+  text-align:center;
+  background-color: #47AB11;
+  color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+}
